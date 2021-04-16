@@ -12,7 +12,7 @@ Django==2.2.2
 django-environ==0.4.5
 
 # Debug
-django-debug-toolbar==1.11
+django-debug-toolbar==1.11.1
 
 django-braces==1.14.0
 
