@@ -6,7 +6,7 @@ python-decouple==3.1
 
 ## Django Packages
 # Django
-Django==2.2.2
+Django==2.2.28
 
 # Secure Sensitive Constant
 django-environ==0.4.5
